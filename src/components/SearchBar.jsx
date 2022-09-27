@@ -5,31 +5,46 @@ import { Search } from '@mui/icons-material';
 
 
 const SearchBar = () => {
+  const [searchTerm, setSearchTerm] = useState("");
+  const navigate = useNavigate();
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    if(searchTerm){
+      navigate(`/search/${searchTerm}`);
+    }
+  }
+  
   return (
     <Paper
       component='form'
-      onSubmit={() => { }}
+      onSubmit={ handleSubmit }
       sx={{
         borderRadius: 2,
         border: '2px solid #555555',
         background: 'rgba(60,60,60,.3)',
-        mr: { sm: 5 },
+        mr: { sm: 1 },
         boxShadow: 'none'
+      }}
+      style={{
+        display:'flex',
+        flexDirection:'row',
+        justifyContent:'space-around',
+        width:'60%',
+        maxWidth:'280px'
       }}
     >
       <input
         className='search-bar'
         placeholder='Search in DevTube...'
-        value=""
-        onChange={() => { }}
+        value={searchTerm}
+        onChange={(e) => setSearchTerm(e.target.value)}
         style={{
-          // border: '1px solid #e3e3e3',
           color: '#e3e3e3',
-          paddingTop:'10px',
+          padding:'10px auto',
           paddingLeft:'14px',
-          fontSize:'18px',
+          fontSize:'16px',
           background: 'transparent',
-          maxWidth:'200px'
         }}
       />
       <IconButton type='submit' sx={{  color: 'red' }}>
