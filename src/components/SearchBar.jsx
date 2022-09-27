@@ -30,7 +30,8 @@ const SearchBar = () => {
         display:'flex',
         flexDirection:'row',
         justifyContent:'space-around',
-        width:'60%',
+        width:'52%',
+        marginLeft:'3px',
         maxWidth:'280px'
       }}
     >
