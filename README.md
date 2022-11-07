@@ -19,4 +19,4 @@
 
 ### live: https://dev-tube.vercel.app/
 
-[![DevTube](https://github.com/pranjal-barnwal/devTube/tree/main/public/seo.png)](https://dev-tube.vercel.app/)
+[![DevTube](./public/seo.png)](https://dev-tube.vercel.app/)
