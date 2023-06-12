@@ -1,11 +1,11 @@
 <h2>
   Dev<span style="color: red;">Tube</span> <br/>
-  <b>Favicon Generator</b>
   <br/>
-  <a href="https://dev-tube.vercel.app" target="_blank">dev-tube.vercel.app</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./public/promo/mockup.png" />
+  <a href="https://dev-tube.vercel.app" target="_blank">
+    <img alt="Demo" src="https://user-images.githubusercontent.com/71400605/245144196-befec424-85b2-4656-b14c-406247088fc0.png" />
+  </a>
 </div>
 
 <br/>
