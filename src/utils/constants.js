@@ -4,6 +4,7 @@ import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import SchoolIcon from '@mui/icons-material/School';
 import GraphicEqIcon from '@mui/icons-material/GraphicEq';
+import PetsIcon from '@mui/icons-material/Pets';
 import DataObjectIcon from '@mui/icons-material/DataObject';
 import LaptopIcon from '@mui/icons-material/Laptop';
 import AndroidIcon from '@mui/icons-material/Android';
@@ -22,6 +23,7 @@ export const categories = [
   { name: 'Web Dev', icon: <CodeIcon />, },
   { name: 'App Dev', icon: <AndroidIcon />, },
   { name: 'Lofi', icon: <MusicNoteIcon /> },
+  { name: 'Cute Cats', icon: <PetsIcon /> },
   { name: 'GATE CSE', icon: <SchoolIcon />, },
   { name: 'Tech News', icon: <NewspaperIcon />, },
   { name: 'Indian Stocks', icon: <AccountBalanceIcon />, },
