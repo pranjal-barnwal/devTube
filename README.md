@@ -12,15 +12,17 @@
 
 <center>
 
-[![https://dev-tube.vercel.app](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![https://dev-tube.vercel.app](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![https://dev-tube.vercel.app](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+[![https://dev-tube.vercel.app](https://forthebadge.com/images/badges/built-with-love.svg)](https://dev-tube.vercel.app) &nbsp;
+[![https://dev-tube.vercel.app](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://dev-tube.vercel.app) &nbsp;
+[![https://dev-tube.vercel.app](https://forthebadge.com/images/badges/open-source.svg)](https://dev-tube.vercel.app) &nbsp;
 ![https://github.com/pranjal-barnwal/devTube](https://img.shields.io/github/stars/pranjal-barnwal/devTube?color=red&logo=github&style=for-the-badge) &nbsp;
 ![https://github.com/pranjal-barnwal/devTube](https://img.shields.io/github/forks/pranjal-barnwal/devTube?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
+    🔹
+    <a href="https://youtu.be/kWFuHC5vKSk">YouTube</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/pranjal-barnwal/devTube/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
